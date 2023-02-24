@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ander Murias</h1>
-<h3 align="center">Dream Maker & Software Developer</h3>
+<h1 align="left">Hi 👋, I'm Ander Murias</h1>
+<h3 align="left">Dream Maker & Software Developer</h3>
 
 - 🔭 I’m currently working on [LIN3S](https://lin3s.com)
 
