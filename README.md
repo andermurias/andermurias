@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Ander Murias</h1>
 <h3 align="left">Dream Maker & Software Developer</h3>
 
+<hr/>
+
 - 🔭 I’m currently working on [LIN3S](https://lin3s.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/andermurias](https://github.com/andermurias)
@@ -10,6 +12,8 @@
 - 📫 How to reach me **ander@murias.nl**
 
 - 📄 Know about my experiences [https://www.notion.so/andermuriase/Ander-Murias-7d07a2f8394e42fbae7097dd74a296c0?pvs=4](https://www.notion.so/andermuriase/Ander-Murias-7d07a2f8394e42fbae7097dd74a296c0?pvs=4)
+
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
