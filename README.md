@@ -3,8 +3,6 @@
 
 <hr/>
 
-- 🔭 I’m currently working on [LIN3S](https://lin3s.com)
-
 - 👨‍💻 All of my projects are available at [https://github.com/andermurias](https://github.com/andermurias)
 
 - 💬 Ask me about **Symfony, Next.js, React, Wordpress**
